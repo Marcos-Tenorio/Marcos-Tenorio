@@ -1,11 +1,7 @@
 
   <h2>Olá, Me chamo Marcos Tenório 🧩</h2>
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Tenorio&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&custom_title=Meus status no GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Tenorio&layout=default&langs_count=7&theme=gotham&custom_title=Linguagens mais utilizadas"/>
-</div>
+
 <div align="center"  style="display: inline-block"><br>
   <img align="center" height="30" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
