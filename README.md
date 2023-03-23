@@ -1,6 +1,3 @@
-
-  <h2>Olá, Me chamo Marcos Tenório 🧩</h2>
-
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Tenorio&repo=Marcos-Tenorio&layout=compact&langs_count=7&theme=dark"/>
 </div>
